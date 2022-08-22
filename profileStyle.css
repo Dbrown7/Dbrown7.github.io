@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(48, 219, 42);
+    color: rgb(4,11,105);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+.box-1{
+    background-color:aliceblue;
+    border-top: 5px green;
+    border-bottom: 5px green;
+    border-left: 5px green;
+    border-right: 5px green;
+    justify-content: center;
+}
+
+.box-2{
+    background-color:aliceblue;
+    border-top: 5px green;
+    border-bottom: 5px green;
+    border-left: 5px green;
+    border-right: 5px green;
+    justify-content: center;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+
+.box-1 h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(138, 168, 180);
+}
+
+.myform{
+    background: url('images/Capture.PNG');
+    color: aliceblue;
+    padding: 50px;
+    margin: 10px;
+}
+
+.button{
+    padding: 8px;
+    order: none;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.col{
+    color: aliceblue;
+}
+.col1{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+
+footer{
+    color: aliceblue;
+}
+
+label{
+    color:darkviolet;
+}
+
+.box-2 h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
